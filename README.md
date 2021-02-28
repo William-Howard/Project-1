@@ -42,4 +42,4 @@ allowing your final outputs to be....put out. You'll then have to plug in the pa
 
 # Finished product and outputs
 
-
+![Project 1 code](https://user-images.githubusercontent.com/79774762/109433140-718c9b80-79d4-11eb-8aaa-3e121ad56717.png)
