@@ -36,3 +36,10 @@ This would allow the output to actaully ask you what the height and width of a t
 
 **4.** Once your inputs have been created, you will need to then type in the equations for your final outputs. These equations would consist of the rectangle area, rectangle
 perimeter, cylinder area, and the cylinder volume. (ex. rectangle_area = width * height)
+
+**5.** After the equations are done, you will then need to 'print' your outputs in order to actually see them. At the start of your line you'll write print, immediately
+allowing your final outputs to be....put out. (ex. print(rectangle_area))
+
+# Finished product and outputs
+
+
