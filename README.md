@@ -16,4 +16,8 @@ it was created with.
 # What is the purpose of Project 1?
 
 The purpose of Project 1 was to simply make a calculator that could allow one to figure out the area and perimeter of a rectangle, while also allowing one to calculate the 
-area and volume of a cylinder. 
+area and volume of a cylinder. In order for one to figure out these calculations, you would have to know the:
+- Area of a Rectangle
+- Perimeter of a Rectangle 
+- Area of a Cylinder
+- Volume of a Cylinder
