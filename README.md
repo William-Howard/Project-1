@@ -46,6 +46,13 @@ allowing your final outputs to be....put out. You'll then have to plug in the pa
 
 # Finished product and outputs
 
+**Product**:
+
 ![Project 1 code](https://user-images.githubusercontent.com/79774762/109433140-718c9b80-79d4-11eb-8aaa-3e121ad56717.png)
 
-**Here is the final product of Project 1**
+**Output**:
+
+![Project 1](https://user-images.githubusercontent.com/79774762/109433281-39398d00-79d5-11eb-8b39-710df6c1a07a.png)
+
+
+
