@@ -1,6 +1,6 @@
 # Project 1
 
-Project 1 was first created almost a year ago by me. The project was extremely simple, but useful as well. Everyone needs a calculator, no? Python was the language in which
+Project 1 was first created almost a year ago. The project was extremely simple, but useful as well. Everyone needs a calculator, no? Python was the language in which
 it was created with. 
 
 
