@@ -1,1 +1,9 @@
 Hello there. My name is William Howard, and I am glad to see you took the time to look at my Github. 
+
+Project 1 is a very simple piece of code I did in my first semester of college. The code itself is a simple math calculator that finds the area of a rectangle,
+the rectangle width, the area of a cylinder, and the volume of a cylinder. This was found by being able to input the rectangle height, the rectangle width,
+the cylinder radius, and the cylinder height. This input would, of course, come from the person at the keyboard. 
+
+It's not much, but the language itself was from Python, the software I used during my first semester. This was the very first software I touched, and I have grown 
+somewhat accustomed to the language. Though the code is simple, I like to think that the most simple of codes still have the most use. It's easy to say that I should
+be showing you a fantastically complex piece of code, but this just seemed more appropriate for an introduction. 
