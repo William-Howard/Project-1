@@ -1,7 +1,8 @@
 # Project 1
 
-## A collection of files that show the creation of Project 1.
+## Important things to explain
 
-- Gives info on my particular choice in code
-
-- Gives the viewer info on python
+- Give info on my particular choice in code.
+- Give the viewer info on Python.
+- Allow the viewer to see the output of the code.
+- Explain how it works without unnecessary filler.
