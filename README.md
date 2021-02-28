@@ -32,7 +32,7 @@ partcicular equations and symbols for the math problems.
 similar, so as to avoid confusion. 
 (ex. h,w,r,ch)
 
-**3.** After you have decided your simple inputs, you will then ask the person at the keyboard to "enter the rectangles height/width" and "enter the cylinders radius/height".
+**3.** After you have decided on your simple inputs, you will then ask the person at the keyboard to "enter the rectangles height/width" and "enter the cylinders radius/height".
 This would allow the output to actaully ask you what the height and width of a traingle is, while also askng about the radius and height of a cylinder.
 (ex. h=int(input("Enter the rectangle height : "))
 
