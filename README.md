@@ -4,7 +4,7 @@ Project 1 was first created almost a year ago by me. The project was extremely s
 it was created with. 
 
 
-## Important things to explain about Python before we start
+## Interesting things to know about Python before we start.
 
 - Python is a software that has C and Java variants.
 - It's used commonly by people who are just starting to learn about coding. 
@@ -21,3 +21,4 @@ area and volume of a cylinder. In order for one to figure out these calculations
 - Perimeter of a Rectangle 
 - Area of a Cylinder
 - Volume of a Cylinder
+By plugging in the numbers you have been presented with, you are able to get the output you desire.
