@@ -4,11 +4,13 @@ Project 1 was first created almost a year ago by me. The project was extremely s
 it was created with. 
 
 
-## Important things to explain about Python
+## Important things to explain about Python before we start
 
 - Python is a software that has C and Java variants.
 - It's used commonly by people who are just starting to learn about coding. 
-- Believe it or not, Python has overtaken French as one of the most popular languages taught. 
+- Believe it or not, Python has overtaken French as one of the most popular languages taught in schools. 
 - It does not require a compiler.
 - Python is an open source language.
 - It is also one of the official languages of Google. 
+
+# What is the purpose of Project 1?
