@@ -1,5 +1,8 @@
 # Project 1
 
+Project 1 was first created almost a year ago by me. The project was extremely simple, but useful as well. Everyone needs a calculator, no? 
+
+
 ## Important things to explain
 
 - Give info on my particular choice in code.
