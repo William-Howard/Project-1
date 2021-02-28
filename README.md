@@ -21,4 +21,8 @@ area and volume of a cylinder. In order for one to figure out these calculations
 - Perimeter of a Rectangle 
 - Area of a Cylinder
 - Volume of a Cylinder
-By plugging in the numbers you have been presented with, you are able to get the output you desire.
+
+# How did you do make this exactly? 
+
+**1.** When you first open up the Python module, it is important to first import "from math import pi". By doing this, we are able to import the necessary tools to help find the 
+partcicular equations and symbols for the math problem. 
