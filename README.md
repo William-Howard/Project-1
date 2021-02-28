@@ -14,3 +14,6 @@ it was created with.
 - It is also one of the official languages of Google. 
 
 # What is the purpose of Project 1?
+
+The purpose of Project 1 was to simply make a calculator that could allow one to figure out the area and perimeter of a rectangle, while also allowing one to calculate the 
+area and volume of a cylinder. 
