@@ -54,5 +54,12 @@ allowing your final outputs to be....put out. You'll then have to plug in the pa
 
 ![Project 1](https://user-images.githubusercontent.com/79774762/109433281-39398d00-79d5-11eb-8b39-710df6c1a07a.png)
 
+# Notes
+
+- You don't have to follow the lines word for word.
+- Very malleable, you could make pretty much any calculator.
+- Useful if you don't have a calculator at home.
+- Thank you for viewing. ;D
+
 
 
