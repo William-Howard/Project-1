@@ -24,23 +24,23 @@ area and volume of a cylinder. In order for one to figure out these calculations
 
 # How did you make this exactly? 
 
-**1.** When you first open up the Python module, it is important to import 'from math import pi'. By doing this, we are able to import the necessary tools to help create the 
+**1.)** When you first open up the Python module, it is important to import 'from math import pi'. By doing this, we are able to import the necessary tools to help create the 
 partcicular equations and symbols for the math problems. 
 (ex. from math import pi)
 
-**2.** After you import Pi, you then should find simple letters that will be included in the later equations. It's important that these letters or numbers are not 
+**2.)** After you import Pi, you then should find simple letters that will be included in the later equations. It's important that these letters or numbers are not 
 similar, so as to avoid confusion. 
 (ex. h,w,r,ch)
 
-**3.** After you have decided on your simple inputs, you will then ask the person at the keyboard to "enter the rectangles height/width" and "enter the cylinders radius/height".
+**3.)** After you have decided on your simple inputs, you will then ask the person at the keyboard to "enter the rectangles height/width" and "enter the cylinders radius/height".
 This would allow the output to actaully ask you what the height and width of a traingle is, while also askng about the radius and height of a cylinder.
 (ex. h=int(input("Enter the rectangle height : "))
 
-**4.** Once your inputs have been created, you will need to then type in the equations for your final outputs. These equations would consist of the rectangle area, rectangle
+**4.)** Once your inputs have been created, you will need to then type in the equations for your final outputs. These equations would consist of the rectangle area, rectangle
 perimeter, cylinder area, and the cylinder volume. 
 (ex. rectangle_area = width * height)
 
-**5.** After the equations are done, you will then need to 'print' your outputs in order to actually see them. At the start of your line you'll write print, immediately
+**5.)** After the equations are done, you will then need to 'print' your outputs in order to actually see them. At the start of your line you'll write print, immediately
 allowing your final outputs to be....put out. You'll then have to plug in the particular measurement you are looking for. 
 (ex. print(rectangle_area))
 
