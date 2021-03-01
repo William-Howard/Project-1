@@ -22,7 +22,7 @@ area and volume of a cylinder. In order for one to figure out these calculations
 - Area of a Cylinder
 - Volume of a Cylinder
 
-# How did you do make this exactly? 
+# How did you make this exactly? 
 
 **1.** When you first open up the Python module, it is important to import 'from math import pi'. By doing this, we are able to import the necessary tools to help create the 
 partcicular equations and symbols for the math problems. 
