@@ -59,6 +59,7 @@ allowing your final outputs to be....put out. You'll then have to plug in the pa
 - You don't have to follow the lines word for word.
 - Very malleable, you could make pretty much any calculator.
 - Useful if you don't have a calculator at home.
+- Pictures are included in the files.
 - Thank you for viewing. ;D
 
 
